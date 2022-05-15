@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "Taste of SFINAE!"
-date:   2022-05-07 10:40:58 +0000
-categories: jekyll update
+title: "Taste of SFINAE!"
+categories:
+  - C++
+tags:
+  - C++
+  - Templates
+  - MetaProgramming
+  - SFINAE
 ---
 
 # **Substitution Failure Is Not An Error --- SFINAE**

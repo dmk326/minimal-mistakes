@@ -1,9 +1,12 @@
 ---
-layout: post
-title:  "Flavours of Dynamic Libraries"
-date:   2022-05-14 10:40:58 +0000
-categories: jekyll update
-image: /assets/images/image2.jpg
+title: "Flavours of Dynamic Libraries"
+categories:
+  - OS 
+tags:
+  - C++
+  - DLL
+  - Static Library
+  - Dynamic Library
 ---
 
 A library is code, designed to be reused by other programs. It is just normal C or C++ code except for the absence of `main()`. Libraries can be plugged into executables or other libraries. On most platforms, libraries come in two flavors: **static** or **dynamic**, each with its own advantages and disadvantages.
