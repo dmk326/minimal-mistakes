@@ -2,7 +2,7 @@
 permalink: /about/
 title: "About"
 layout: home
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "I am Devansh Mohan Kaushik."  
 author_profile: true
 last_modified_at: 2022-05-21 23:16-04:00
 # toc: true
